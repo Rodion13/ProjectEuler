@@ -4,6 +4,7 @@
 # What is the largest n-digit pandigital prime that exists?
 
 # Rodion Yaryy
+# Link: https://projecteuler.net/problem=41
 
 require 'prime'
 
