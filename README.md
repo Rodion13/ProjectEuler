@@ -2,6 +2,6 @@ Project Euler is a series of challenging mathematical/computer programming probl
 
 Here I will present my successful attempts in solving challenges presented in Project Euler. 
 
-Solved Challenges with IDs: 1,2,3,4,39,40,41
+Solved Challenges with IDs: 1,2,3,4,39,40,41,42
 
 Profile: https://projecteuler.net/profile/Rodion13.png 
