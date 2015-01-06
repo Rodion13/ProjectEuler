@@ -4,7 +4,7 @@
 # What is the 10 001st prime number?
 
 # Rodion Yaryy
-# https://projecteuler.net/problem=6
+# https://projecteuler.net/problem=7
 
 require 'prime'
 
