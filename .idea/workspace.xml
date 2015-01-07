@@ -12,18 +12,19 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/ProjectEuler@7_10001st_prime.coverage" NAME="7_10001st_prime Coverage Results" MODIFIED="1420509937677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/in_progress" MODULE_NAME="ProjectEuler" />
-    <SUITE FILE_PATH="coverage/ProjectEuler@6_sum_square_difference.coverage" NAME="6_sum_square_difference Coverage Results" MODIFIED="1420509298556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/in_progress" MODULE_NAME="ProjectEuler" />
     <SUITE FILE_PATH="coverage/ProjectEuler@43_sub_string_divisibility.coverage" NAME="43_sub_string_divisibility Coverage Results" MODIFIED="1420436526015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/in_progress" MODULE_NAME="ProjectEuler" />
-    <SUITE FILE_PATH="coverage/ProjectEuler@pandigital_prime_41.coverage" NAME="pandigital_prime_41 Coverage Results" MODIFIED="1419902486636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ProjectEuler" />
-    <SUITE FILE_PATH="coverage/ProjectEuler@9_special_pythagorean_triplet.coverage" NAME="9_special_pythagorean_triplet Coverage Results" MODIFIED="1420576506123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/in_progress" MODULE_NAME="ProjectEuler" />
     <SUITE FILE_PATH="coverage/ProjectEuler@42_coded_triangle_numbers.coverage" NAME="42_coded_triangle_numbers Coverage Results" MODIFIED="1420428425673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/in_progress" MODULE_NAME="ProjectEuler" />
+    <SUITE FILE_PATH="coverage/ProjectEuler@9_special_pythagorean_triplet.coverage" NAME="9_special_pythagorean_triplet Coverage Results" MODIFIED="1420576506123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/in_progress" MODULE_NAME="ProjectEuler" />
     <SUITE FILE_PATH="coverage/ProjectEuler@41_pandigital_prime__1_.coverage" NAME="41_pandigital_prime  Coverage Results" MODIFIED="1420432212044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/done" MODULE_NAME="ProjectEuler" />
     <SUITE FILE_PATH="coverage/ProjectEuler@8_largest_product_in_a_series.coverage" NAME="8_largest_product_in_a_series Coverage Results" MODIFIED="1420529571510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/in_progress" MODULE_NAME="ProjectEuler" />
-    <SUITE FILE_PATH="coverage/ProjectEuler@champernownes_constant_40.coverage" NAME="champernownes_constant_40 Coverage Results" MODIFIED="1419884479047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ProjectEuler" />
     <SUITE FILE_PATH="coverage/ProjectEuler@100_arranged_probability.coverage" NAME="100_arranged_probability Coverage Results" MODIFIED="1419925148283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ProjectEuler" />
-    <SUITE FILE_PATH="coverage/ProjectEuler@5_smallest_multiple.coverage" NAME="5_smallest_multiple Coverage Results" MODIFIED="1419983252825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ProjectEuler" />
+    <SUITE FILE_PATH="coverage/ProjectEuler@champernownes_constant_40.coverage" NAME="champernownes_constant_40 Coverage Results" MODIFIED="1419884479047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ProjectEuler" />
     <SUITE FILE_PATH="coverage/ProjectEuler@largest_palindrome_product.coverage" NAME="largest_palindrome_product_4 Coverage Results" MODIFIED="1419835599869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ProjectEuler" />
+    <SUITE FILE_PATH="coverage/ProjectEuler@7_10001st_prime.coverage" NAME="7_10001st_prime Coverage Results" MODIFIED="1420509937677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/in_progress" MODULE_NAME="ProjectEuler" />
+    <SUITE FILE_PATH="coverage/ProjectEuler@6_sum_square_difference.coverage" NAME="6_sum_square_difference Coverage Results" MODIFIED="1420509298556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/in_progress" MODULE_NAME="ProjectEuler" />
+    <SUITE FILE_PATH="coverage/ProjectEuler@pandigital_prime_41.coverage" NAME="pandigital_prime_41 Coverage Results" MODIFIED="1419902486636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ProjectEuler" />
+    <SUITE FILE_PATH="coverage/ProjectEuler@10_summation_of_primes.coverage" NAME="10_summation_of_primes Coverage Results" MODIFIED="1420594063002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/in_progress" MODULE_NAME="ProjectEuler" />
+    <SUITE FILE_PATH="coverage/ProjectEuler@5_smallest_multiple.coverage" NAME="5_smallest_multiple Coverage Results" MODIFIED="1419983252825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="ProjectEuler" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -47,21 +48,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="5_smallest_multiple.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/done/5_smallest_multiple.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-              <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="42_coded_triangle_numbers.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/done/42_coded_triangle_numbers.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="1125">
-              <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="51" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1125">
+              <caret line="23" column="52" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -71,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-2.7777777" vertical-offset="0" max-vertical-offset="210">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -80,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="6_sum_square_difference.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/done/6_sum_square_difference.rb">
+      <file leaf-file-name="10_summation_of_primes.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/done/10_summation_of_primes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="117" max-vertical-offset="540">
-              <caret line="13" column="10" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state vertical-scroll-proportion="1.6312057" vertical-offset="0" max-vertical-offset="885">
+              <caret line="46" column="74" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -110,11 +101,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="9_special_pythagorean_triplet.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="9_special_pythagorean_triplet.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/done/9_special_pythagorean_triplet.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.0992907" vertical-offset="0" max-vertical-offset="735">
-              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="312" max-vertical-offset="735">
+              <caret line="16" column="11" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="41_pandigital_prime.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/done/41_pandigital_prime.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="205" max-vertical-offset="615">
+              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -123,7 +124,7 @@
       <file leaf-file-name="43_sub_string_divisibility.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/done/43_sub_string_divisibility.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+            <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="675">
               <caret line="13" column="11" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
@@ -175,8 +176,9 @@
         <option value="$PROJECT_DIR$/in_progress/8_largest_product_in_a_series.rb" />
         <option value="$PROJECT_DIR$/done/8_largest_product_in_a_series.rb" />
         <option value="$PROJECT_DIR$/in_progress/special_pythagorean_triplet.rb" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/in_progress/9_special_pythagorean_triplet.rb" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/in_progress/10_summation_of_primes.rb" />
       </list>
     </option>
   </component>
@@ -275,29 +277,7 @@
       <recent name="$PROJECT_DIR$/in_progress" />
     </key>
   </component>
-  <component name="RunManager" selected="Ruby.9_special_pythagorean_triplet">
-    <configuration default="false" name="43_sub_string_divisibility" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="ProjectEuler" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/in_progress" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/done/43_sub_string_divisibility.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Ruby.10_summation_of_primes">
     <configuration default="false" name="6_sum_square_difference" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="ProjectEuler" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -386,6 +366,30 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
+    <configuration default="false" name="10_summation_of_primes" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="ProjectEuler" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/in_progress" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/done/10_summation_of_primes.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RunnerSettings RunnerId="RubyDebugRunner" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyDebugRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="" />
@@ -471,19 +475,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Ruby.42_coded_triangle_numbers" />
-      <item index="1" class="java.lang.String" itemvalue="Ruby.43_sub_string_divisibility" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.6_sum_square_difference" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.7_10001st_prime" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.8_largest_product_in_a_series" />
-      <item index="5" class="java.lang.String" itemvalue="Ruby.9_special_pythagorean_triplet" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.6_sum_square_difference" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.7_10001st_prime" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.8_largest_product_in_a_series" />
+      <item index="4" class="java.lang.String" itemvalue="Ruby.9_special_pythagorean_triplet" />
+      <item index="5" class="java.lang.String" itemvalue="Ruby.10_summation_of_primes" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.9_special_pythagorean_triplet" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.8_largest_product_in_a_series" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.7_10001st_prime" />
-        <item index="3" class="java.lang.String" itemvalue="Ruby.6_sum_square_difference" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.43_sub_string_divisibility" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.10_summation_of_primes" />
+        <item index="1" class="java.lang.String" itemvalue="Ruby.9_special_pythagorean_triplet" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.8_largest_product_in_a_series" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.7_10001st_prime" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.6_sum_square_difference" />
       </list>
     </recent_temporary>
   </component>
@@ -534,7 +538,9 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/done/4_largest_palindrome_product.rb">
@@ -797,22 +803,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/done/41_pandigital_prime.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="205" max-vertical-offset="615">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/in_progress/100_arranged_probability.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="130" max-vertical-offset="555">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/done/6_sum_square_difference.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="27" max-vertical-offset="540">
@@ -825,14 +815,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
           <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/done/42_coded_triangle_numbers.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="1125">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="51" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -853,10 +835,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/done/43_sub_string_divisibility.rb">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state vertical-scroll-proportion="-2.7777777" vertical-offset="0" max-vertical-offset="210">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/in_progress/100_arranged_probability.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="130" max-vertical-offset="555">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/done/41_pandigital_prime.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="205" max-vertical-offset="615">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
           <folding />
         </state>
       </provider>
@@ -869,21 +870,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/done/43_sub_string_divisibility.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.7777777" vertical-offset="0" max-vertical-offset="210">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/done/42_coded_triangle_numbers.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="1125">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="51" />
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/done/9_special_pythagorean_triplet.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.0992907" vertical-offset="0" max-vertical-offset="735">
-          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="312" max-vertical-offset="735">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/done/10_summation_of_primes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6312057" vertical-offset="0" max-vertical-offset="885">
+          <caret line="46" column="74" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding />
         </state>
       </provider>
