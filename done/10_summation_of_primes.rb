@@ -32,12 +32,12 @@ puts "Time elapsed #{Time.now - beginning} seconds."
 beginning = Time.now
 sum2 =0
 
-def prime_fast?(n)
-  nums = [nil, nil, *2..n]
-  (2..Math.sqrt(n)).each do |i|
-    (i**2..n).step(i){|m| nums[m] = nil}  if nums[i]
+def prime_fast?(num)
+  nums = [nil, nil, *2..num]
+  (2..Math.sqrt(num)).each do |i|
+    if nums[i] then (i**2..num).step(i){|j| nums[j] = nil} end # line the takes care of the steps 2i, 3i, 4i... etc and marks them as nil
   end
-  nums.compact
+  nums.compact # remove all nil elements
 end
 
 prime_fast?(2000000).each do |i| sum2 += i end
